@@ -2,6 +2,8 @@ import glob
 import os
 from PIL import Image
 
+# change file type in recursive
+
 target_dir = input("target dir:")
 remove_old = input("remove old:(y/n)")
 
